@@ -1,0 +1,1 @@
+Caso 1. Según el caso de uso al hacer click al botón genera un error por el cual no funciona nada.
